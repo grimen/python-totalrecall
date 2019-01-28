@@ -1,7 +1,7 @@
 
 # `totalrecall` [![Build Status](https://travis-ci.com/grimen/python-totalrecall.svg?branch=master)](https://travis-ci.com/grimen/python-totalrecall) [![PyPI version](https://badge.fury.io/py/totalrecall.svg)](https://badge.fury.io/py/totalrecall)
 
-*A friendly runtime step profiler - for Python.*
+*A runtime step profiler - for Python.*
 
 ## Introduction
 

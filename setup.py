@@ -66,7 +66,7 @@ def get_requirements():
 
 name = 'totalrecall'
 version = '0.1.0'
-description = 'A friendly runtime step profiler - for Python.'
+description = 'A runtime step profiler - for Python.'
 keywords = [
     'profiler',
     'step-profiler',
