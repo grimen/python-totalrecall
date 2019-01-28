@@ -471,7 +471,7 @@ class RuntimeProfiler(Profiler):
     """
 
     def __init__(self, logger = None):
-        super().__init__(
+        super(RuntimeProfiler, self).__init__(
             logger = logger,
         )
 
