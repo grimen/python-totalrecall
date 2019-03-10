@@ -90,6 +90,7 @@ class TestCase(helper.TestCase):
         self.assertEquals(math.floor(timer.time * 1000) / 1000, 1.0 / 1000)
 
     def test_function(self):
+        pass
         # self.assertTrue(hasattr(totalrecall, 'function'))
         # self.assertTrue(callable(totalrecall.function))
 
