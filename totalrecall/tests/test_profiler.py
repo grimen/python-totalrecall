@@ -90,18 +90,18 @@ class TestCase(helper.TestCase):
         self.assertEquals(math.floor(timer.time * 1000) / 1000, 1.0 / 1000)
 
     def test_function(self):
-        self.assertTrue(hasattr(totalrecall, 'function'))
-        self.assertTrue(callable(totalrecall.function))
+        # self.assertTrue(hasattr(totalrecall, 'function'))
+        # self.assertTrue(callable(totalrecall.function))
 
-        timer = totalrecall.function('profile something 3 - using function')
+        # timer = totalrecall.function('profile something 3 - using function')
 
-        @timer
-        def foo():
-            sleep(0.001)
+        # @timer
+        # def foo():
+        #     sleep(0.001)
 
-        foo()
+        # foo()
 
-        self.assertEquals(math.floor(timer.time * 1000) / 1000, 1.0 / 1000)
+        # self.assertEquals(math.floor(timer.time * 1000) / 1000, 1.0 / 1000)
 
 
 # =========================================

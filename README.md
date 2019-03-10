@@ -1,5 +1,5 @@
 
-# `totalrecall` [![Build Status](https://travis-ci.com/grimen/python-totalrecall.svg?branch=master)](https://travis-ci.com/grimen/python-totalrecall) [![PyPI version](https://badge.fury.io/py/totalrecall.svg)](https://badge.fury.io/py/totalrecall)
+# `totalrecall` [![PyPI version](https://badge.fury.io/py/totalrecall.svg)](https://badge.fury.io/py/totalrecall) [![Build Status](https://travis-ci.com/grimen/python-totalrecall.svg?branch=master)](https://travis-ci.com/grimen/python-totalrecall) [![Coverage Status](https://codecov.io/gh/grimen/python-totalrecall/branch/master/graph/badge.svg)](https://codecov.io/gh/grimen/python-totalrecall)
 
 *A runtime step profiler - for Python.*
 

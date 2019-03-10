@@ -133,7 +133,6 @@ class RuntimeProfilerTimer(Profiler):
         key = None,
         label = None,
         details = None,
-        count = None,
     ):
         if ' ' in (key or ''):
             label = key
